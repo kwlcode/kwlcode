@@ -39,8 +39,9 @@ Building iOS apps, SaaS tools, and agentic workflows that solve real problems.
 Native iOS app that turns spoken job descriptions into professional invoices using Claude API.
 
 - **Tech:** SwiftUI, StoreKit 2, Claude API, AVFoundation, PDFKit
-- **Status:** In Development | iOS 17+ | Swift
+- **Status:** In Production | iOS 17+ | Swift
 - **Why:** Field technicians waste time writing invoices — VoiceTask removes that entirely with voice input + AI parsing
+- [AppStore](https://apple.co/4zbjsyy)
 - [View Repository](https://github.com/kwlcode/VoiceTask)
 
 ### SymptomAnalyzer
